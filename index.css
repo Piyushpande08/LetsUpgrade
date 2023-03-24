@@ -1,0 +1,11 @@
+button{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+    color: antiquewhite;
+}
+#clock{
+    color: brown    ;
+}
